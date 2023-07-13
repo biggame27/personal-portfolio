@@ -20,9 +20,9 @@ const About = () => {
     <>
       <h2 className="head-text">
         I know that
-        <span> Activities </span> 
+        <span> Hobbies </span> 
         are
-        <span> important</span>
+        <span> Cool </span>
         !
       </h2>
 
