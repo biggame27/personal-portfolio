@@ -2,6 +2,7 @@
 
 My personal website using React, SCSS, and Sanity.
 
-![image](https://github.com/biggame27/portfolio/assets/67714638/6f1d1a86-8da9-470b-adb9-ea67acfbf6e6)
+![image](https://github.com/biggame27/personal-portfolio/assets/67714638/e78a9be0-9326-4e1d-a15c-8d8fd9e1c9d5)
+
 
 https://harry-ko-portfolio.netlify.app/
